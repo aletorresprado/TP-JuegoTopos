@@ -1,24 +1,28 @@
-# TP-JuegoTopos
+# TP-JuegoTopos 🎯
 
 Un divertido juego de topo desarrollado con HTML, CSS y JavaScript, donde el objetivo es [breve descripción de la dinámica del juego].
 
 ![Captura del juego](images/mole.png)
 
-## Contenido
+📋 Contenido
 - [Tecnologías](#tecnologías)
 - [Instalación](#instalación)
 - [Créditos](#créditos)
 
-## Tecnologías
+🚀 Tecnologías
 - HTML
 - CSS
 - JavaScript
 
-## Instalación
+📦 Instalación
 ```bash
 git clone https://github.com/aletorresprado/TP-JuegoTopos.git
-# Luego abre `index.html` en tu navegador favorito
+##Luego abre `index.html` en tu navegador favorito
 
-## Créditos
+👥 Créditos
 - Trabajo Practico realizado en clases [Rolling School].
 - https://web.rollingcodeschool.com
+-
+-
+😁
+
