@@ -2,7 +2,7 @@
 
 Un divertido juego de topo desarrollado con HTML, CSS y JavaScript, donde el objetivo es [breve descripción de la dinámica del juego].
 
-![Captura del juego](images/mole.png)
+![Captura del juego](images/juego.png)
 
 📋 Contenido
 - [Tecnologías](#tecnologías)

@@ -21,6 +21,7 @@ img {
 body {
   font-family: "Paytone One", sans-serif;
   background-color: #769c38;
+  background-image:url("images/cesped.png");
 }
 
 .count {
