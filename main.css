@@ -81,13 +81,14 @@ body {
   left: 50%;
   transform: translateX(-50%);
   cursor: pointer;
-  background-color: #d5d6db;
+  background-color: #afc21b;
   border-radius: 50%;
   transition: all 300ms ease;
+  box-shadow: 0 4px 8px rgba(10,10, 50, 20);
 }
 
 .mole img {
-  padding: 7px;
+  padding: 5px;
 }
 
 .mole-hide {
